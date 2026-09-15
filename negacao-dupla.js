@@ -1,7 +1,7 @@
 // Valores Falsy
 console.log(!!0);      // false
 console.log(!!"");      // false
-console.log(!!null;      // false
+console.log(!!null)      // false
 
 // Valores Truthy
 console.log(!!1);      // true
