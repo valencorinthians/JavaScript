@@ -8,4 +8,4 @@ function exemploConst () {
     }
     // console.log(y); // Isso causará um erro porque y não existe fora do bloco
 }
-exemploConst ();
+exemploConst 
