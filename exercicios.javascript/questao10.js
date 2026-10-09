@@ -1,0 +1,14 @@
+//10. Qual é o resultado da operação de módulo (%) no código abaixo?  
+// 
+
+let totalDoces = 10; 
+let criancas = 3; 
+totalDoces %= criancas; 
+console.log(totalDoces)
+
+/**
+ A) 3  
+ B) 1  (CORRETA)
+ C) 0  
+ D) 3.33 
+ */
