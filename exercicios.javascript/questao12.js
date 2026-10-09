@@ -1,0 +1,7 @@
+//12. (Verdadeiro ou Falso) O código 10 = idade; é uma atribuição válida em JavaScript.  
+// 
+
+/**
+ ( ) Verdadeiro  
+ ( ) Falso (CORRETA)
+ */
